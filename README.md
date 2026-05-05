@@ -58,6 +58,7 @@ The program is designed as an educational tool for studying coding theory and de
 
 ## Notes
 
-This project was developed as a course work for the subject related to information theory and coding.  
+This project was developed as a course work for the subject related to information theory and coding.
 
-Huffman algorithm implementation
+This project also does not use a database.
+All data is processed in memory during program execution.
