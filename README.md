@@ -59,4 +59,5 @@ The program is designed as an educational tool for studying coding theory and de
 ## Notes
 
 This project was developed as a course work for the subject related to information theory and coding.  
-Merge file input feature
+
+Huffman algorithm implementation
