@@ -25,17 +25,6 @@ The system allows encoding, decoding, and error correction using classical infor
 
 ---
 
-## Structure
-
-
-src/ Delphi source code (Unit1.pas)
-docs/ Course work documentation
-diagrams/ UML diagrams (Use Case, etc.)
-screenshots/ Application screenshots
-
-
----
-
 ## Description
 
 The application implements core concepts of information theory and coding.  
